@@ -2,8 +2,10 @@
   "name": "mooncolor",
   "displayName": "MOON-Color",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "publisher": "moon-ljq",
   "license": "SEE LICENSE IN LICENSE",
+  "icon": "logo.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/qwnwzzo/vscode-mooncolor.git"
