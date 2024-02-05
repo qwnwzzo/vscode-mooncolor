@@ -3,11 +3,21 @@
   "displayName": "MOON-Color",
   "description": "",
   "version": "0.0.1",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qwnwzzo/vscode-mooncolor.git"
+  },
   "engines": {
     "vscode": "^1.86.0"
   },
   "categories": [
     "Other"
+  ],
+  "keywords": [
+    "Theme",
+    "Colors",
+    "Fun"
   ],
   "activationEvents": [],
   "main": "./out/extension.js",
@@ -17,7 +27,15 @@
         "command": "moon.changeColor",
         "title": "MOON: Change Color"
       }
-    ]
+    ],
+    "configuration": {
+      "properties": {
+        "mooncolor.id": {
+          "type": "string",
+          "default": ""
+        }
+      }
+    }
   },
   "scripts": {
     "vscode:prepublish": "npm run compile",

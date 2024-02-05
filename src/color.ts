@@ -78,3 +78,5 @@ export const JAVASCRIPT = {
   "titleBar.inactiveBackground": "#f9e64f99",
   "titleBar.inactiveForeground": "#15202b99"
 };
+
+export const RESET = {};

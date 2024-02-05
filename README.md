@@ -1,13 +1,11 @@
-# MOON: change color README
+# MOON Color for Visual Studio Code
 
-change color
+Subtly change the color of your Visual Studio Code workspace. Ideal when you have multiple VS Code instances and you want to quickly identify your editor.
 
-## Features
-
-change color
-
-## Requirements
-
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+## Quick Usage
+1. Create/Open a VSCode Workspace
+2. Type `MOON`
+3. Choose `MOON: Change Color`
+4. Choose one of the pre-defined colors and see how it changes your editor
 
 **Enjoy!**
